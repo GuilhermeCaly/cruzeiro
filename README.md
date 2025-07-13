@@ -1,11 +1,11 @@
-# 📊 Projeto de Engenharia de Dados – Cruzeiro (Case Técnico)
+# Projeto de Engenharia de Dados – Cruzeiro (Case Técnico)
 
-## 🎯 Objetivo
+## Objetivo
 Integrar dados de CRM, Google Analytics 4 e Funil de Vendas para gerar insights estratégicos de marketing no GCP, utilizando BigQuery e visualizações analíticas.
 
 ---
 
-## 🗃️ Fontes de Dados
+## Fontes de Dados
 
 | Fonte            | Tipo           | Descrição Principal                           |
 |------------------|----------------|-----------------------------------------------|
@@ -15,7 +15,7 @@ Integrar dados de CRM, Google Analytics 4 e Funil de Vendas para gerar insights 
 
 ---
 
-## 🔄 Integração e Transformação
+## Integração e Transformação
 
 - **Chave comum:** `id_lead`
 - **GA4 via BigQuery Export:** dados de eventos extraídos diretamente
