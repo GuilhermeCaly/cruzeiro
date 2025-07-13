@@ -1,0 +1,135 @@
+id_lead,etapa,data_etapa,status_etapa
+1001,Captação,2025-06-04,Concluído
+1001,Qualificação,2025-06-06,Concluído
+1001,Proposta Enviada,2025-06-09,Concluído
+1001,Fechamento,2025-06-11,Perdido
+1002,Captação,2025-06-02,Concluído
+1002,Qualificação,2025-06-04,Desqualificado
+1003,Captação,2025-06-04,Concluído
+1003,Qualificação,2025-06-06,Desqualificado
+1004,Captação,2025-06-02,Concluído
+1004,Qualificação,2025-06-05,Desqualificado
+1005,Captação,2025-06-03,Concluído
+1005,Qualificação,2025-06-05,Concluído
+1005,Proposta Enviada,2025-06-06,Em negociação
+1005,Fechamento,2025-06-08,Perdido
+1006,Captação,2025-06-03,Concluído
+1006,Qualificação,2025-06-06,Desqualificado
+1007,Captação,2025-06-02,Concluído
+1007,Qualificação,2025-06-03,Desqualificado
+1008,Captação,2025-06-02,Concluído
+1008,Qualificação,2025-06-04,Desqualificado
+1009,Captação,2025-06-02,Concluído
+1009,Qualificação,2025-06-05,Concluído
+1009,Proposta Enviada,2025-06-08,Concluído
+1009,Fechamento,2025-06-10,Perdido
+1010,Captação,2025-06-04,Concluído
+1010,Qualificação,2025-06-07,Desqualificado
+1011,Captação,2025-06-03,Concluído
+1011,Qualificação,2025-06-06,Desqualificado
+1012,Captação,2025-06-02,Concluído
+1012,Qualificação,2025-06-04,Desqualificado
+1013,Captação,2025-06-04,Concluído
+1013,Qualificação,2025-06-05,Desqualificado
+1014,Captação,2025-06-04,Concluído
+1014,Qualificação,2025-06-07,Concluído
+1014,Proposta Enviada,2025-06-10,Concluído
+1014,Fechamento,2025-06-13,Perdido
+1015,Captação,2025-06-03,Concluído
+1015,Qualificação,2025-06-06,Desqualificado
+1016,Captação,2025-06-04,Concluído
+1016,Qualificação,2025-06-05,Concluído
+1016,Proposta Enviada,2025-06-06,Em negociação
+1016,Fechamento,2025-06-07,Perdido
+1017,Captação,2025-06-02,Concluído
+1017,Qualificação,2025-06-04,Desqualificado
+1018,Captação,2025-06-02,Concluído
+1018,Qualificação,2025-06-03,Desqualificado
+1019,Captação,2025-06-04,Concluído
+1019,Qualificação,2025-06-07,Desqualificado
+1020,Captação,2025-06-03,Concluído
+1020,Qualificação,2025-06-04,Desqualificado
+1021,Captação,2025-06-03,Concluído
+1021,Qualificação,2025-06-04,Desqualificado
+1022,Captação,2025-06-03,Concluído
+1022,Qualificação,2025-06-06,Concluído
+1022,Proposta Enviada,2025-06-09,Em negociação
+1022,Fechamento,2025-06-10,Ganhou
+1023,Captação,2025-06-04,Concluído
+1023,Qualificação,2025-06-05,Desqualificado
+1024,Captação,2025-06-04,Concluído
+1024,Qualificação,2025-06-05,Desqualificado
+1025,Captação,2025-06-02,Concluído
+1025,Qualificação,2025-06-04,Desqualificado
+1026,Captação,2025-06-04,Concluído
+1026,Qualificação,2025-06-07,Desqualificado
+1027,Captação,2025-06-02,Concluído
+1027,Qualificação,2025-06-04,Concluído
+1027,Proposta Enviada,2025-06-07,Em negociação
+1027,Fechamento,2025-06-09,Ganhou
+1028,Captação,2025-06-03,Concluído
+1028,Qualificação,2025-06-06,Concluído
+1028,Proposta Enviada,2025-06-09,Concluído
+1028,Fechamento,2025-06-11,Ganhou
+1029,Captação,2025-06-04,Concluído
+1029,Qualificação,2025-06-07,Desqualificado
+1030,Captação,2025-06-03,Concluído
+1030,Qualificação,2025-06-05,Desqualificado
+1031,Captação,2025-06-02,Concluído
+1031,Qualificação,2025-06-04,Desqualificado
+1032,Captação,2025-06-04,Concluído
+1032,Qualificação,2025-06-07,Concluído
+1032,Proposta Enviada,2025-06-10,Em negociação
+1032,Fechamento,2025-06-13,Perdido
+1033,Captação,2025-06-04,Concluído
+1033,Qualificação,2025-06-05,Concluído
+1033,Proposta Enviada,2025-06-07,Concluído
+1033,Fechamento,2025-06-10,Ganhou
+1034,Captação,2025-06-04,Concluído
+1034,Qualificação,2025-06-06,Desqualificado
+1035,Captação,2025-06-04,Concluído
+1035,Qualificação,2025-06-06,Desqualificado
+1036,Captação,2025-06-03,Concluído
+1036,Qualificação,2025-06-05,Desqualificado
+1037,Captação,2025-06-02,Concluído
+1037,Qualificação,2025-06-05,Desqualificado
+1038,Captação,2025-06-03,Concluído
+1038,Qualificação,2025-06-04,Concluído
+1038,Proposta Enviada,2025-06-06,Concluído
+1038,Fechamento,2025-06-09,Perdido
+1039,Captação,2025-06-04,Concluído
+1039,Qualificação,2025-06-05,Desqualificado
+1040,Captação,2025-06-02,Concluído
+1040,Qualificação,2025-06-05,Concluído
+1040,Proposta Enviada,2025-06-08,Em negociação
+1040,Fechamento,2025-06-10,Perdido
+1041,Captação,2025-06-02,Concluído
+1041,Qualificação,2025-06-03,Desqualificado
+1042,Captação,2025-06-04,Concluído
+1042,Qualificação,2025-06-05,Concluído
+1042,Proposta Enviada,2025-06-07,Em negociação
+1042,Fechamento,2025-06-09,Perdido
+1043,Captação,2025-06-04,Concluído
+1043,Qualificação,2025-06-05,Concluído
+1043,Proposta Enviada,2025-06-08,Em negociação
+1043,Fechamento,2025-06-09,Perdido
+1044,Captação,2025-06-04,Concluído
+1044,Qualificação,2025-06-06,Desqualificado
+1045,Captação,2025-06-02,Concluído
+1045,Qualificação,2025-06-03,Desqualificado
+1046,Captação,2025-06-04,Concluído
+1046,Qualificação,2025-06-06,Concluído
+1046,Proposta Enviada,2025-06-08,Concluído
+1046,Fechamento,2025-06-11,Ganhou
+1047,Captação,2025-06-02,Concluído
+1047,Qualificação,2025-06-04,Desqualificado
+1048,Captação,2025-06-04,Concluído
+1048,Qualificação,2025-06-05,Concluído
+1048,Proposta Enviada,2025-06-06,Concluído
+1048,Fechamento,2025-06-08,Ganhou
+1049,Captação,2025-06-02,Concluído
+1049,Qualificação,2025-06-03,Desqualificado
+1050,Captação,2025-06-02,Concluído
+1050,Qualificação,2025-06-05,Concluído
+1050,Proposta Enviada,2025-06-08,Em negociação
+1050,Fechamento,2025-06-10,Ganhou
