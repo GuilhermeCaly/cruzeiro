@@ -1,0 +1,51 @@
+id_lead,nome,email,data_captacao,origem_captacao
+1001,Lead 1001,lead1001@email.com,2025-06-21,Indicação
+1002,Lead 1002,lead1002@email.com,2025-06-06,LinkedIn
+1003,Lead 1003,lead1003@email.com,2025-06-10,Orgânico
+1004,Lead 1004,lead1004@email.com,2025-06-28,Indicação
+1005,Lead 1005,lead1005@email.com,2025-06-23,Google Ads
+1006,Lead 1006,lead1006@email.com,2025-06-22,LinkedIn
+1007,Lead 1007,lead1007@email.com,2025-06-27,Orgânico
+1008,Lead 1008,lead1008@email.com,2025-06-28,LinkedIn
+1009,Lead 1009,lead1009@email.com,2025-06-08,LinkedIn
+1010,Lead 1010,lead1010@email.com,2025-06-09,Orgânico
+1011,Lead 1011,lead1011@email.com,2025-06-06,Orgânico
+1012,Lead 1012,lead1012@email.com,2025-06-28,Orgânico
+1013,Lead 1013,lead1013@email.com,2025-06-11,Google Ads
+1014,Lead 1014,lead1014@email.com,2025-06-26,Facebook Ads
+1015,Lead 1015,lead1015@email.com,2025-06-01,Indicação
+1016,Lead 1016,lead1016@email.com,2025-06-02,Facebook Ads
+1017,Lead 1017,lead1017@email.com,2025-06-05,LinkedIn
+1018,Lead 1018,lead1018@email.com,2025-06-21,LinkedIn
+1019,Lead 1019,lead1019@email.com,2025-06-20,Google Ads
+1020,Lead 1020,lead1020@email.com,2025-06-25,Facebook Ads
+1021,Lead 1021,lead1021@email.com,2025-06-17,Facebook Ads
+1022,Lead 1022,lead1022@email.com,2025-06-26,Indicação
+1023,Lead 1023,lead1023@email.com,2025-06-20,Facebook Ads
+1024,Lead 1024,lead1024@email.com,2025-06-13,Orgânico
+1025,Lead 1025,lead1025@email.com,2025-06-08,Indicação
+1026,Lead 1026,lead1026@email.com,2025-06-14,Google Ads
+1027,Lead 1027,lead1027@email.com,2025-06-20,Facebook Ads
+1028,Lead 1028,lead1028@email.com,2025-06-15,Facebook Ads
+1029,Lead 1029,lead1029@email.com,2025-06-15,Orgânico
+1030,Lead 1030,lead1030@email.com,2025-06-25,Indicação
+1031,Lead 1031,lead1031@email.com,2025-06-25,Orgânico
+1032,Lead 1032,lead1032@email.com,2025-06-16,Facebook Ads
+1033,Lead 1033,lead1033@email.com,2025-06-14,Orgânico
+1034,Lead 1034,lead1034@email.com,2025-06-10,Google Ads
+1035,Lead 1035,lead1035@email.com,2025-06-05,Google Ads
+1036,Lead 1036,lead1036@email.com,2025-06-15,Orgânico
+1037,Lead 1037,lead1037@email.com,2025-06-28,Orgânico
+1038,Lead 1038,lead1038@email.com,2025-06-22,Orgânico
+1039,Lead 1039,lead1039@email.com,2025-06-17,Orgânico
+1040,Lead 1040,lead1040@email.com,2025-06-24,LinkedIn
+1041,Lead 1041,lead1041@email.com,2025-06-22,Orgânico
+1042,Lead 1042,lead1042@email.com,2025-06-08,LinkedIn
+1043,Lead 1043,lead1043@email.com,2025-06-30,Google Ads
+1044,Lead 1044,lead1044@email.com,2025-06-10,Indicação
+1045,Lead 1045,lead1045@email.com,2025-06-30,Orgânico
+1046,Lead 1046,lead1046@email.com,2025-06-16,Orgânico
+1047,Lead 1047,lead1047@email.com,2025-06-24,Google Ads
+1048,Lead 1048,lead1048@email.com,2025-06-05,Orgânico
+1049,Lead 1049,lead1049@email.com,2025-06-22,Facebook Ads
+1050,Lead 1050,lead1050@email.com,2025-06-18,Google Ads
